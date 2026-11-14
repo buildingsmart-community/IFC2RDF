@@ -8,7 +8,8 @@ a BDNS label.
 
 The implementation demonstrates three things:
 
-1. mapping BDNS-classified IFC assets to Brick or BOT classes;
+1. mapping BDNS-classified IFC assets to [Brick](https://brickschema.org/) or
+   [BOT](https://w3id.org/bot) classes;
 2. connecting BMS point metadata to that equipment; and
 3. deriving Brick relationships from IFC relationships, with provenance.
 
